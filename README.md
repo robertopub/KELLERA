@@ -7,13 +7,19 @@
 
 <p align="center">
 
-![Android](https://img.shields.io/badge/Android-API%2029%2B-3DDC84?logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.2-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=jetpackcompose&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-Voice%20First-0A84FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.6-000000?logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI-Codex-412991?logo=openai&logoColor=white)
-![Status](https://img.shields.io/badge/Status-MVP-orange)
+<img src="https://img.shields.io/badge/Android-API%2029%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+
+<img src="https://img.shields.io/badge/Kotlin-2.2-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=flat-square" alt="Jetpack Compose">
+
+<img src="https://img.shields.io/badge/Accessibility-Voice%20First-0078D4?style=flat-square" alt="Accessibility">
+
+<img src="https://img.shields.io/badge/OpenAI-GPT--5.6-000000?style=flat-square" alt="OpenAI GPT-5.6">
+
+<img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square" alt="OpenAI Codex">
+
+<img src="https://img.shields.io/badge/Status-MVP-F59E0B?style=flat-square" alt="Status MVP">
 
 </p>
 

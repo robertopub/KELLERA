@@ -2,39 +2,19 @@
   <img src="screenshots/banner.png" alt="KELLERA Banner" width="100%">
 </p>
 
-
 # KELLERA
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Android-API%2029%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-
-<img src="https://img.shields.io/badge/Kotlin-2.2-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-
-<img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=flat-square" alt="Jetpack Compose">
-
-<img src="https://img.shields.io/badge/Accessibility-Voice%20First-0078D4?style=flat-square" alt="Accessibility">
-
-<img src="https://img.shields.io/badge/OpenAI-GPT--5.6-000000?style=flat-square" alt="OpenAI GPT-5.6">
-
-<img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square" alt="OpenAI Codex">
-
-<img src="https://img.shields.io/badge/Status-MVP-F59E0B?style=flat-square" alt="Status MVP">
-
-</p>
-
-
-> **An AI-powered voice accessibility assistant that brings natural conversation, contextual understanding, and greater independence to Android users.**
+> **An AI-powered conversational accessibility assistant designed to make Android interaction more natural, accessible, and independent.**
 
 ---
 
-## Vision
+## A Different Way to Interact
 
-KELLERA is an accessibility platform designed to transform how people interact with smartphones.
+Imagine using a smartphone without looking at the screen or touching it.
 
-Our mission is to improve autonomy, independence, and quality of life through artificial intelligence, making technology more human, accessible, and inclusive.
+KELLERA was created to make that possible.
 
-Originally inspired by the needs of blind users, KELLERA is evolving into an intelligent assistant capable of understanding context, interacting naturally through voice, and assisting users in everyday digital tasks.
+Instead of expecting users to adapt to technology, KELLERA adapts technology to the user through natural conversation, contextual understanding, and artificial intelligence.
 
 ---
 
@@ -42,9 +22,9 @@ Originally inspired by the needs of blind users, KELLERA is evolving into an int
 
 Millions of people still face barriers when using smartphones.
 
-Existing accessibility solutions often require gesture memorization, complex touch interactions, or extensive training.
+Many accessibility solutions require gesture memorization, touch precision, or extensive training.
 
-KELLERA proposes a different approach:
+KELLERA explores a different approach:
 
 **A natural conversation between the user and the smartphone.**
 
@@ -52,11 +32,11 @@ KELLERA proposes a different approach:
 
 ## The Solution
 
-KELLERA combines voice interaction, Android accessibility technologies, contextual analysis, and artificial intelligence to create a hands-free user experience.
+KELLERA combines voice interaction, Android Accessibility Services, contextual analysis, and artificial intelligence to create a hands-free experience.
 
-Instead of simply reading the screen, KELLERA aims to understand what is happening and guide the user naturally.
+Instead of only reading screen content, KELLERA aims to understand what is happening and guide users naturally.
 
-Example:
+### Example
 
 **User**
 
@@ -66,39 +46,35 @@ Example:
 
 > Google is open. You are on the home screen. The search bar is available. What would you like to search for?
 
-This conversational workflow is the foundation of the project.
-
 ---
 
 ## Current MVP
 
-The current MVP already demonstrates:
+The current MVP demonstrates:
 
 - Voice-first interaction
 - Speech recognition
-- Text-to-Speech
-- Android Accessibility Service integration
+- Text-to-Speech (TTS)
+- Android Accessibility Service
 - Device unlock detection
 - Voice command processing
 - Automatic Google launch
-- Contextual voice guidance
+- Context-aware voice guidance
 - Accessibility overlay
 - Continuous interaction flow
 
 ---
 
-## Technology Stack
+## Screenshots
 
-- Kotlin
-- Android Studio
-- Jetpack Compose
-- Android Accessibility Service
-- SpeechRecognizer API
-- TextToSpeech API
-- Git
-- GitHub
-- OpenAI GPT-5.6
-- OpenAI Codex
+> Screenshots will be added as new features become available.
+
+<!--
+<p align="center">
+  <img src="screenshots/home.png" width="280" alt="KELLERA Home">
+  <img src="screenshots/google.png" width="280" alt="Google Integration">
+</p>
+-->
 
 ---
 
@@ -111,13 +87,13 @@ User
 Speech Recognition
    │
    ▼
-Command Processor
+Command Processing
    │
    ▼
-Context Analyzer
+Context Analysis
    │
    ▼
-Accessibility Service
+Android Accessibility Service
    │
    ▼
 Android Applications
@@ -128,22 +104,34 @@ Voice Feedback
 
 ---
 
+## Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Kotlin | Android application development |
+| Jetpack Compose | User Interface |
+| Android Accessibility Service | Accessibility integration |
+| SpeechRecognizer API | Voice recognition |
+| TextToSpeech API | Voice feedback |
+| OpenAI GPT-5.6 | AI-assisted development |
+| OpenAI Codex | AI-assisted coding |
+| Git & GitHub | Version control |
+
+---
+
 ## AI-Assisted Development
 
-Artificial intelligence played an important role during the development of KELLERA.
+KELLERA was developed with the support of OpenAI GPT-5.6 and Codex.
 
-OpenAI GPT-5.6 and Codex were used to support:
+These tools assisted in software architecture, Kotlin implementation, Android integration, debugging, documentation, code review, and development planning.
 
-- software architecture
-- Kotlin implementation
-- Android development
-- debugging
-- code review
-- accessibility workflows
-- documentation
-- development planning
+All product decisions, feature prioritization, testing, validation, and long-term vision are defined by the project author.
 
-The project concept, product vision, feature prioritization, validation, testing, and long-term direction are defined by the project author.
+---
+
+## Vision
+
+KELLERA is evolving toward an intelligent accessibility platform capable of understanding context, interacting naturally through conversation, and helping people navigate digital experiences with greater independence.
 
 ---
 
@@ -160,62 +148,34 @@ The project concept, product vision, feature prioritization, validation, testing
 
 - Multi-application interaction
 - AI-powered contextual reasoning
-- Healthcare integration
-- Assistive technologies for greater independence
+- Healthcare-oriented assistive technologies
 
 ---
 
 ## Why "KELLERA"?
 
-The name **KELLERA** is inspired by **Helen Keller**, whose life demonstrated that barriers can be overcome through determination, education, and accessibility.
+The name **KELLERA** is inspired by **Helen Keller**, whose life demonstrated that accessibility and education can transform lives.
 
-The project carries this inspiration forward by using technology to promote inclusion and independence.
-
----
-
-## Repository Structure
-
-```text
-app/
- ├── accessibility/
- ├── context/
- ├── launcher/
- ├── model/
- ├── overlay/
- ├── speech/
- ├── voice/
- └── ui/
-```
+The project carries that inspiration forward by using technology to promote autonomy and inclusion.
 
 ---
 
-## Future Demonstrations
+## About the Creator
 
-The repository will include:
+KELLERA is an independent project created by **Roberto Ribeiro da Silva** during his journey into software development.
 
-- Screenshots
-- Architecture diagrams
-- Demonstration videos
-- Development updates
+The project combines artificial intelligence, Android development, and accessibility with the goal of creating technology that improves people's lives.
+
+**GitHub**
+
+https://github.com/robertopub
+
+**LinkedIn**
+
+https://www.linkedin.com/in/roberto-ribeiro-da-silva
 
 ---
 
 ## License
 
 This project is currently available for research, educational, and evaluation purposes.
-
----
-
-## Author
-
-### Roberto Ribeiro da Silva
-
-Systems Analysis and Development (ADS)
-
-Founder of KELLERA
-
-GitHub:
-https://github.com/robertopub
-
-LinkedIn:
-https://www.linkedin.com/in/roberto-ribeiro-da-silva

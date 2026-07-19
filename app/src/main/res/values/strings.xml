@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">KELLERA 03</string>
+
+    <string name="kellera_accessibility_description">
+        A KELLERA interpreta elementos da tela e auxilia pessoas com deficiência visual por comandos de voz.
+    </string>
+
+</resources>

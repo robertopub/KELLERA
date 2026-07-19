@@ -1,0 +1,33 @@
+# IntelliJ / Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+
+# Build
+/build/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Native
+.externalNativeBuild/
+.cxx/
+
+# Captures
+/captures/
+
+# Logs
+*.log
+
+# Packages
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
+
+# macOS
+.DS_Store

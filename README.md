@@ -5,6 +5,19 @@
 
 # KELLERA
 
+<p align="center">
+
+![Android](https://img.shields.io/badge/Android-API%2029%2B-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.2-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=jetpackcompose&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-Voice%20First-0A84FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.6-000000?logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI-Codex-412991?logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/Status-MVP-orange)
+
+</p>
+
+
 > **An AI-powered voice accessibility assistant that brings natural conversation, contextual understanding, and greater independence to Android users.**
 
 ---
